@@ -1,4 +1,4 @@
-Hola y beinvenido a mi repositorio.
+Hola y bienvenido a mi repositorio.
 
 Este espacio corresponde a la clase inicial de html en USB, Colombia.
 
